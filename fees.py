@@ -1,7 +1,7 @@
 import discord
 import asyncio
 
-token = 'YOUR BOT TOKEN'
+token = 'NzExODI1NzAyNzY0MTUwODI1.XsIpWA.xr3FATMAzy044-OEgK0aRzt_9EE'
 client = discord.Client()
 
 @client.event
